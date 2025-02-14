@@ -1,0 +1,2 @@
+/* Write your PL/SQL query statement below */
+select DISTINCT author_id AS id from Views WHERE author_id = viewer_id ORDER BY id
