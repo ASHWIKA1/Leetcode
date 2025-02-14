@@ -9,4 +9,8 @@
 | [1258-article-views-i](https://github.com/ASHWIKA1/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/ASHWIKA1/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ASHWIKA1/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [3429-special-array-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3429-special-array-i) |
 <!---LeetCode Topics End-->
