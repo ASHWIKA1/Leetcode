@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [3429-special-array-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3429-special-array-i) |
+## Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/ASHWIKA1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/ASHWIKA1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
