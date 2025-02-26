@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3429-special-array-i) |
 ## Math
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
