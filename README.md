@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3429-special-array-i) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -39,4 +41,16 @@
 | ------- |
 | [0027-remove-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
