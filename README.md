@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0202-happy-number) |
 | [1585-the-kth-factor-of-n](https://github.com/ASHWIKA1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ASHWIKA1/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0202-happy-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -52,6 +54,7 @@
 | [0027-remove-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
