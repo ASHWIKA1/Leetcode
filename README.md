@@ -19,6 +19,7 @@
 | [0015-3sum](https://github.com/ASHWIKA1/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -48,6 +49,7 @@
 | [0015-3sum](https://github.com/ASHWIKA1/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ASHWIKA1/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
 | [3430-count-days-without-meetings](https://github.com/ASHWIKA1/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Counting
