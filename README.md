@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@
 | [0015-3sum](https://github.com/ASHWIKA1/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
