@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHWIKA1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/ASHWIKA1/Leetcode/tree/master/0455-assign-cookies) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/ASHWIKA1/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -62,6 +63,7 @@
 | [0202-happy-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ASHWIKA1/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/ASHWIKA1/Leetcode/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/ASHWIKA1/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Divide and Conquer
 |  |
@@ -73,6 +75,7 @@
 | [0015-3sum](https://github.com/ASHWIKA1/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/ASHWIKA1/Leetcode/tree/master/0455-assign-cookies) |
 | [3430-count-days-without-meetings](https://github.com/ASHWIKA1/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
@@ -87,4 +90,8 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHWIKA1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ASHWIKA1/Leetcode/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ASHWIKA1/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
