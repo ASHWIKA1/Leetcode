@@ -2,7 +2,7 @@ class Solution {
     public int maxSubArray(int[] nums) {
         int sum=0;
         int mx=Integer.MIN_VALUE;
-        int i=0,j=0;
+        int j=0;
 
         while(j<nums.length){
             sum+=nums[j];
