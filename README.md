@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/ASHWIKA1/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ASHWIKA1/Leetcode/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/ASHWIKA1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/ASHWIKA1/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -110,4 +111,5 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ASHWIKA1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
