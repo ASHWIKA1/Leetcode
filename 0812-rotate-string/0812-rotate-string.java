@@ -1,16 +1,11 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        int n=s.length();
-        String rotated=s;
-       for(int i=0;i<n;i++){
-         rotated = rotated.substring(1) + rotated.charAt(0);
+    if(s.length()!=goal.length())
+    {
+        return false;
 
-       
-    if(rotated.equals(goal)){
-        return true;
     }
-       }
-    return false;
+    return (s+s).contains(goal);
            
 
         
