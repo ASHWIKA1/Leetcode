@@ -60,6 +60,7 @@
 | [0392-is-subsequence](https://github.com/ASHWIKA1/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ASHWIKA1/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/ASHWIKA1/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0812-rotate-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0812-rotate-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ASHWIKA1/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
