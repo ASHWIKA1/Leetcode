@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ASHWIKA1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0202-happy-number) |
 | [1585-the-kth-factor-of-n](https://github.com/ASHWIKA1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ASHWIKA1/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ASHWIKA1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHWIKA1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ASHWIKA1/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -125,4 +127,8 @@
 | [0643-maximum-average-subarray-i](https://github.com/ASHWIKA1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ASHWIKA1/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASHWIKA1/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ASHWIKA1/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
