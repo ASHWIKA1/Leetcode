@@ -22,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/ASHWIKA1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHWIKA1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ASHWIKA1/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -111,10 +112,12 @@
 | [0053-maximum-subarray](https://github.com/ASHWIKA1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ASHWIKA1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHWIKA1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/ASHWIKA1/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/ASHWIKA1/Leetcode/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
