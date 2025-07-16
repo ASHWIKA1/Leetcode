@@ -38,10 +38,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ASHWIKA1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ASHWIKA1/Leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/ASHWIKA1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ASHWIKA1/Leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/ASHWIKA1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Hash Table
 |  |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ASHWIKA1/Leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ASHWIKA1/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
