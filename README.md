@@ -70,6 +70,7 @@
 | [0541-reverse-string-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ASHWIKA1/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/ASHWIKA1/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0742-to-lower-case](https://github.com/ASHWIKA1/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0812-rotate-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ASHWIKA1/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
