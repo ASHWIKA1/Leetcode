@@ -42,6 +42,7 @@
 | [0202-happy-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ASHWIKA1/Leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/ASHWIKA1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1610-xor-operation-in-an-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/ASHWIKA1/Leetcode/tree/master/3226-minimum-number-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
