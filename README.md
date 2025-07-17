@@ -43,6 +43,7 @@
 | [0258-add-digits](https://github.com/ASHWIKA1/Leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/ASHWIKA1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2752-sum-multiples](https://github.com/ASHWIKA1/Leetcode/tree/master/2752-sum-multiples) |
 ## Number Theory
 |  |
 | ------- |
