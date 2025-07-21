@@ -30,6 +30,7 @@
 | [0455-assign-cookies](https://github.com/ASHWIKA1/Leetcode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/ASHWIKA1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ASHWIKA1/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASHWIKA1/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ASHWIKA1/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ASHWIKA1/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -82,6 +83,7 @@
 | [0812-rotate-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0812-rotate-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ASHWIKA1/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ASHWIKA1/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/ASHWIKA1/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/ASHWIKA1/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ASHWIKA1/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
