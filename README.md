@@ -35,6 +35,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ASHWIKA1/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ASHWIKA1/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/ASHWIKA1/Leetcode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/ASHWIKA1/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/ASHWIKA1/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -51,6 +52,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ASHWIKA1/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/ASHWIKA1/Leetcode/tree/master/2752-sum-multiples) |
+| [3321-type-of-triangle](https://github.com/ASHWIKA1/Leetcode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ASHWIKA1/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Number Theory
 |  |
@@ -117,6 +119,7 @@
 | [0455-assign-cookies](https://github.com/ASHWIKA1/Leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/ASHWIKA1/Leetcode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/ASHWIKA1/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/ASHWIKA1/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
