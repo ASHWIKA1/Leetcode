@@ -53,6 +53,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ASHWIKA1/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/ASHWIKA1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/ASHWIKA1/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ASHWIKA1/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/ASHWIKA1/Leetcode/tree/master/2752-sum-multiples) |
 | [3321-type-of-triangle](https://github.com/ASHWIKA1/Leetcode/tree/master/3321-type-of-triangle) |
