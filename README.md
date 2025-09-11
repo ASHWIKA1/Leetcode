@@ -89,6 +89,7 @@
 | [0696-count-binary-substrings](https://github.com/ASHWIKA1/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/ASHWIKA1/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0812-rotate-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ASHWIKA1/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ASHWIKA1/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ASHWIKA1/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ASHWIKA1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ASHWIKA1/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ASHWIKA1/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASHWIKA1/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Memoization
