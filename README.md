@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/ASHWIKA1/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ASHWIKA1/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ASHWIKA1/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/ASHWIKA1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ASHWIKA1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHWIKA1/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -76,6 +77,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/ASHWIKA1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ASHWIKA1/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASHWIKA1/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ASHWIKA1/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ASHWIKA1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
