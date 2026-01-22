@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/ASHWIKA1/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHWIKA1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ASHWIKA1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/ASHWIKA1/Leetcode/tree/master/0704-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHWIKA1/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ASHWIKA1/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/ASHWIKA1/Leetcode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
 | ------- |
