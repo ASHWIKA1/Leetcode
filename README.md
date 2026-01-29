@@ -92,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ASHWIKA1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ASHWIKA1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0344-reverse-string) |
@@ -225,4 +226,8 @@
 | [0142-linked-list-cycle-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ASHWIKA1/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ASHWIKA1/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ASHWIKA1/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
