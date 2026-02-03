@@ -27,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHWIKA1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ASHWIKA1/Leetcode/tree/master/0229-majority-element-ii) |
@@ -221,6 +222,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ASHWIKA1/Leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ASHWIKA1/Leetcode/tree/master/0704-binary-search) |
 ## Linked List
