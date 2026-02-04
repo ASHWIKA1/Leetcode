@@ -41,6 +41,7 @@
 | [0704-binary-search](https://github.com/ASHWIKA1/Leetcode/tree/master/0704-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ASHWIKA1/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1539-kth-missing-positive-number](https://github.com/ASHWIKA1/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHWIKA1/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ASHWIKA1/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASHWIKA1/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -225,6 +226,7 @@
 | [0162-find-peak-element](https://github.com/ASHWIKA1/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ASHWIKA1/Leetcode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/ASHWIKA1/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Linked List
 |  |
 | ------- |
