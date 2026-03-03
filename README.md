@@ -110,6 +110,7 @@
 | [0696-count-binary-substrings](https://github.com/ASHWIKA1/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/ASHWIKA1/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0812-rotate-string) |
+| [1417-reformat-the-string](https://github.com/ASHWIKA1/Leetcode/tree/master/1417-reformat-the-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ASHWIKA1/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ASHWIKA1/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
