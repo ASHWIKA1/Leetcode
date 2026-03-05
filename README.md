@@ -60,6 +60,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ASHWIKA1/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/ASHWIKA1/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ASHWIKA1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ASHWIKA1/Leetcode/tree/master/0258-add-digits) |
@@ -101,6 +102,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ASHWIKA1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ASHWIKA1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/ASHWIKA1/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ASHWIKA1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ASHWIKA1/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0344-reverse-string) |
@@ -209,6 +211,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ASHWIKA1/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ASHWIKA1/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ASHWIKA1/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHWIKA1/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -220,6 +223,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ASHWIKA1/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Queue
