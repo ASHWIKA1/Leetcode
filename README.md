@@ -40,6 +40,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ASHWIKA1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ASHWIKA1/Leetcode/tree/master/0704-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1122-relative-sort-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ASHWIKA1/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1539-kth-missing-positive-number](https://github.com/ASHWIKA1/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHWIKA1/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -93,6 +94,7 @@
 | [0268-missing-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ASHWIKA1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHWIKA1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1122-relative-sort-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1122-relative-sort-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHWIKA1/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ASHWIKA1/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASHWIKA1/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -161,6 +163,7 @@
 | [0268-missing-number](https://github.com/ASHWIKA1/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ASHWIKA1/Leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1122-relative-sort-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3226-minimum-number-game](https://github.com/ASHWIKA1/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/ASHWIKA1/Leetcode/tree/master/3321-type-of-triangle) |
@@ -271,4 +274,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ASHWIKA1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ASHWIKA1/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
